@@ -1,0 +1,6 @@
+# Ignore the large dataset and model checkpoints
+WorldFloodsv2/
+*.tif
+*.tiff
+*.geojson
+*.zip
