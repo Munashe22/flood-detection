@@ -4,3 +4,4 @@ WorldFloodsv2/
 *.tiff
 *.geojson
 *.zip
+*.unet_resnet18_checkpoint.pth
